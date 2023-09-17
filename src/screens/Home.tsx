@@ -12,7 +12,7 @@ const Home = ({navigation}: HomeProps) => {
     <View style={styles.container}>
       <Text style={styles.smallText}>Home Screen</Text>
       <Button
-        title="Go to details"
+        title="Go to List"
         // onPress={() =>
         //   navigation.navigate('Details', {
         //     productId: '86',
