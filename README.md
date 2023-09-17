@@ -1,3 +1,8 @@
+![Screenshot_2023-09-17-13-20-06-34](https://github.com/yug20/stack-navigation-app/assets/110123287/88588c06-4a13-47ce-8c44-bdbb61954003)
+![Screenshot_2023-09-17-13-19-36-00](https://github.com/yug20/stack-navigation-app/assets/110123287/db778913-94ed-474d-a4cb-c1e901b669d9)
+![Screenshot_2023-09-17-13-19-39-84](https://github.com/yug20/stack-navigation-app/assets/110123287/aa44a6f8-1f64-41b7-979e-bbb61e2888a7)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
